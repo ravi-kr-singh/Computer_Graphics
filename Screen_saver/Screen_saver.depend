@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1540908748 source:c:\users\ravi\desktop\graphics\screen_saver\main.cpp
+	<cstdlib>
+	<conio.h>
+	<graphics.h>
+
+1540908748 source:c:\users\ravi\desktop\files\screen_saver\main.cpp
+	<cstdlib>
+	<conio.h>
+	<graphics.h>
+
